@@ -1,7 +1,5 @@
-title = 'gomasuke.com'
-
 baseurl = "/"
-languageCode = "us-en"
+languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
 
@@ -17,7 +15,7 @@ paginate = 5
   showMenuItems = 2
 
   # Show reading time in minutes for posts
-  showReadingTime = true
+  showReadingTime = false
 
   # Show table of contents at the top of your posts (defaults to false)
   # Alternatively, add this param to post front matter for specific posts
@@ -29,24 +27,24 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "gomasuke.com"
-    subtitle = "マレーシアと猫の日常ブログ"
-    keywords = "マレーシアと猫の日常ブログ"
-    copyright = "Copyright © GOMASUKE.COM 2022年"
-    menuMore = "もっと見せる"
-    writtenBy = "作者:"
-    readMore = "もっと見る"
-    readOtherPosts = "他のページを読む"
-    newerPosts = "新しいページ"
-    olderPosts = "前のページ"
-    minuteReadingTime = "分で読む"
+    title = "Hello Friend"
+    subtitle = "A simple theme for Hugo"
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    writtenBy = "Written by"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    minuteReadingTime = "min read"
     dateFormatSingle = "2006-01-02"
     dateFormatList = "2006-01-02"
     # leave empty to disable, enter display text to enable
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "gomasuke.com"
+      logoText = "hello friend"
       logoHomeLink = "/"
     # or
     #
@@ -55,6 +53,10 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "自己紹介"
-        name = "自己紹介"
+        identifier = "about"
+        name = "About"
         url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "showcase"
+        name = "Showcase"
+        url = "/showcase"
