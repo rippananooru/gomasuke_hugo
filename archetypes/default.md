@@ -1,6 +1,10 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+author : "Gomasuke"
+
 date: {{ .Date }}
-draft: true
+cover: ""
+
+title : ""
+description: ""
 ---
 
