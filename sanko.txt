@@ -4,3 +4,5 @@ git submodule add -f https://github.com/panr/hugo-theme-hello-friend.git themes/
 google photo emeder
 https://www.labnol.org/embed/google/photos/
 
+server run
+hugo serve
