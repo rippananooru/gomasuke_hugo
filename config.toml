@@ -5,8 +5,6 @@ languageCode = "us-en"
 theme = "hello-friend"
 paginate = 5
 
-googleAnalytics = "G-685L531RW8"
-
 [params]
   # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
