@@ -6,3 +6,8 @@ https://www.labnol.org/embed/google/photos/
 
 server run
 hugo serve
+
+
+image
+save in onedrive aoi
+![img_title](img_url)
