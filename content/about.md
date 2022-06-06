@@ -1,13 +1,33 @@
 +++
-title = "初めまして、始めました 自己紹介"
-date = "2021-06-13"
 author = "Gomasuke"
+
+date = "2021-06-13"
+cover = "https://sn3301files.storage.live.com/y4mhsp8FOz8bocLWZDOo0V4kCu_VN6NaRRZtPiy2n2c-1BfOptkl2Jrp_dzVR2WQ_dKtCwEfcJZ3l3JqBIYyBdO4SdqBwWTU0VhJwhN9jCHFpATRHkwBMd7y4OlhP_0LVNrQXtAh66N82WGr9HVhsHLg07NlrpBcdFpwcwm1tbTkFy12QvoRfpCHJdtEXeSADbf?width=300&height=290&cropmode=none"
+
+title = "自己紹介"
+description = "ブログ初投稿です。自己紹介をします。"
 +++
 
-こんにちは初めまして、ブログ　初投稿です。 自己紹介 をします。
+## こんにちは初めまして
 
+ブログ初投稿です。 自己紹介をします。  
 私は社会人6年目の会社員です。
 
-ブログのタイトルは愛猫の名前ごますけと
+ブログのタイトルは愛猫の名前ごますけと  
+私はマレーシア在住４年目なので掛け合わせて考えました。  
 
-現在、私はマレーシア在住４年目なので掛け合わせて考えました。
+
+昨年結婚し、現在マレーシア人の夫と猫と暮らしています。
+
+**これから猫との日々や**  
+**マレーシアでの日常を記録していこうと思います。**
+
+不慣れな点や拙いところも多いと思いますが、  
+よろしくお願いします！
+
+もし興味のある内容や、リクエストがありましたら  
+お気軽に教えてください。
+
+ごますけインスタもやっています。  
+猫ちゃん好きと繋がりたい  
+I’m on Instagram as [@gomasuke.cat](https://www.instagram.com/gomasuke.cat/)
